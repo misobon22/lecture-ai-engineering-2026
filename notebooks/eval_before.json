@@ -1,0 +1,192 @@
+{
+  "summary": {
+    "label": "before",
+    "n": 20,
+    "format_rate": 0.05,
+    "content_rate": 0.0,
+    "both_rate": 0.0,
+    "seconds": 25.1
+  },
+  "rows": [
+    {
+      "question": "評価対象試料の比誘電率は？",
+      "raw": "{\"answer\": \"3000\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "実験で使用するチタン酸バリウムの1kHzにおける比誘電率の数値を教えてください",
+      "raw": "{\"answer\": \"3000\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "評価対象であるBaTiO3の測定周波数1kHzでの比誘電率はいくつと記載されていますか",
+      "raw": "{\"answer\": \"3000\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "焼結の際の雰囲気条件は？",
+      "raw": "{\"answer\": \"酸素雰囲気下において 1250 ℃ で 2 時間保持します\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "セラミックス基板を焼結する際の温度・時間・雰囲気の条件をまとめて教えてください",
+      "raw": "{\"answer\": \"温度：1250 ℃、時間：2 時間、雰囲気：酸素\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "焼結プロセスにおいて酸素雰囲気下で保持すべき温度と時間はどれくらいですか",
+      "raw": "{\"answer\": \"1250 ℃\", \"needs_review\": \"false\"}",
+      "format_ok": false,
+      "format_reason": "wrong_type",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "ペレットの厚みは何mmですか",
+      "raw": "{\"answer\": \"1.0\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "特性評価に使用するペレットサンプルの寸法（直径と厚さ）を教えてください",
+      "raw": "{\"answer\": \"直径 10 mm、厚さ 1.0 mm の円柱形\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "試験片となる円柱形ペレットの標準的なサイズ指定はどうなっていますか",
+      "raw": "{\"answer\": \"直径 10 mm、厚さ 1.0 mm の円柱形\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "測定対応周波数の上下限は？",
+      "raw": "{\"answer\": \"100 Hz 〜 1 MHz\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "LCRメータで測定可能な周波数の上限と下限、および最大印加電圧を教えてください",
+      "raw": "{\"answer\": \"1 MHz, 100 V\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "容量測定を行う際の印加電圧の制限と周波数仕様範囲について教えてください",
+      "raw": "{\"answer\": \"50 V\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "銀ペーストの処理条件は？",
+      "raw": "{\"answer\": \"600 ℃\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "電極の作製に使用する材料と、その熱処理温度を教えてください",
+      "raw": "{\"answer\": \"電極形成には銀ペーストを使用し、両面に 600 ℃ での焼き付け処理を行います。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "電極形成の具体的な手順（使用ペーストと処理温度）について説明してください",
+      "raw": "{\"answer\": \"電極形成には銀ペーストを使用し、両面に 600 ℃ での焼き付け処理を行います。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "この基板の熱膨張係数はいくらですか",
+      "raw": "{\"answer\": \"確認が必要\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "1 MHzにおける比誘電率は1 kHzのときからどれくらい低下しますか",
+      "raw": "{\"answer\": \"1000\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "塗布する銀ペースト電極の膜厚は何ミクロンに設定すべきですか",
+      "raw": "{\"answer\": \"100\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "焼結炉の昇温レート（℃/min）の指定はありますか",
+      "raw": "{\"answer\": \"なし\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "サンプルをLCRメータにセットする前の洗浄手順を教えてください",
+      "raw": "{\"answer\": \"本実験では、試料を LC 測定前に必ず 1 kHz における比誘電率 3000 とする値を記録し、その後、酸素雰囲気下で 1250 ℃ で 2 時間保持する焼結プロセスを行います。また、電極形成には銀ペーストを使用し、両面に 600 ℃ での焼き付け処理を行いますが、試料の洗浄手順は",
+      "format_ok": false,
+      "format_reason": "json_error: JSONDecodeError",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    }
+  ]
+}
